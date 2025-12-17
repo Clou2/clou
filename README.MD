@@ -1,3 +1,5 @@
+INSPIRED BY https://github.com/elDziad00/LastLetter BECAUSE HE QUIT SADLY
+
 LastLetter Cheat
 ===================
 
@@ -44,3 +46,4 @@ Use PyInstaller to create your own standalone .exe files. Example commands:
    pyinstaller --onefile --windowed --collect-data english_words LAST_LETTER.pyw
    
 The built executables will appear in the "dist" folder.
+
